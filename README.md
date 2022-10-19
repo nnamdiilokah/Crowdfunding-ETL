@@ -1,1 +1,3 @@
 # Crowdfunding-ETL
+
+The purpose of this project is to use Python, Pandas, Jupyter notebooks and SQL queries to extract, transform and load data. Contact information from a CSV file will be extracted and transformed to create a DataFrame that will be exported as a CSV file. The dataset from the extract phase will be used to create an ERD and a table schema for creating a new table in a PostgreSQL database. The CSV file that contains the backers’ information will be uploaded into this table. Finally, data analysis will be performed on the database by using SQL queries.
